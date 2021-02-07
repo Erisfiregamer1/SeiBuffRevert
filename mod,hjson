@@ -1,0 +1,6 @@
+name: "seibuffrevert"
+displayName: "SeiBuffRevert"
+author: "IvyX"
+description: "Reverts the pointless Sei health buff in build 124"
+version: "1.0"
+minGameVersion: "124"
